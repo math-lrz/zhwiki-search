@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "python3",
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": false,
+  "git.autofetch": true
+}
